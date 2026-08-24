@@ -81,6 +81,7 @@
 
 - CFA Program — Level I — CFA Institute (Dec 2017)
 - CFA Program — Level II — CFA Institute (Jun 2019)
+- Financial Modeling and Valuation Analyst (Planned)
 
 ## 8. Blockchain
 
