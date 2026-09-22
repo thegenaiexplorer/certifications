@@ -1,7 +1,14 @@
-# Certifications — Full List by Domain
+# Certifications - Full List by Domain
 **Shaheer Fardan**
 
 ---
+## Educational Qualifications
+- MS, Artificial Intelligence and Machine Learning - Liverpool John Moores University, UK
+- PG Diploma, AI/ML - IIIT-Bangalore
+- CFA Program - Level I and II Cleared
+- Executive Program in Entrepreneurship - IIM Kashipur
+- Executive Program in Business Management(EPBM) - IIM Calcutta
+- Master of Management Science(MMS) - Devi Ahilya University 
 
 ## 1. LLM & Generative AI
 
